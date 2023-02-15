@@ -17,6 +17,9 @@
   .hide-link {
     display: none;
   }
+  .pop-tag-diff{
+    flex-direction: column;
+  }
   /*Shared Classes*/
   .article-container-three {
     grid-template-columns: auto;
