@@ -170,7 +170,6 @@ a {
   position: relative;
   display: none;
   width: 100%;
-  z-index: 1;
   background-color: white;
   flex-direction: column;
   overflow-y: auto;
