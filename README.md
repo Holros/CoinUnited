@@ -1,6 +1,6 @@
 # CoinUnited
-This is a projectt i built 
-i used HTmL, CSS and Javascript for this project
-I cloned a complex website i came across
+This is a project i built,
+I built it using HTML, CSS and Javascript.
+The Project is a clone of a complex webpage i came across
 the link to the website is below
 https://coinunited-academy.vercel.app/
